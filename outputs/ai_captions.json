@@ -1,0 +1,137 @@
+{
+  "images": [
+    {
+      "filename": "8c0d87f175d187a8221775f6b4955183.jpg",
+      "timestamp": "2025-09-25T15:54:32.590317",
+      "image_properties": {
+        "width": 720,
+        "height": 1162,
+        "aspect_ratio": 0.62,
+        "format": "JPEG"
+      },
+      "ai_description": "a list of workouts for the day The time appears to be day. Key elements include: day.",
+      "captions": [
+        {
+          "type": "standard",
+          "text": "a list of workouts for the day",
+          "confidence": 0.85
+        },
+        {
+          "type": "detailed",
+          "text": "a list of workouts for the day",
+          "confidence": 0.8
+        }
+      ],
+      "tags": [
+        "day"
+      ],
+      "scene_context": {
+        "setting": "unknown",
+        "time_of_day": "day",
+        "activity_level": "unknown",
+        "social_context": "unknown",
+        "mood": "neutral"
+      },
+      "related_topics": [],
+      "metadata": {
+        "model_used": "BLIP-base",
+        "processing_device": "cpu",
+        "analysis_version": "1.0"
+      }
+    },
+    {
+      "filename": "GuyBenching.jpg",
+      "timestamp": "2025-09-25T15:54:35.772941",
+      "image_properties": {
+        "width": 612,
+        "height": 408,
+        "aspect_ratio": 1.5,
+        "format": "JPEG"
+      },
+      "ai_description": "a man doing a bench press in a gym This focuses on an individual person. Key elements include: gym, bench press.",
+      "captions": [
+        {
+          "type": "standard",
+          "text": "a man doing a bench press in a gym",
+          "confidence": 0.85
+        },
+        {
+          "type": "detailed",
+          "text": "a man doing a bench press in a gym",
+          "confidence": 0.8
+        }
+      ],
+      "tags": [
+        "bench press",
+        "gym",
+        "man"
+      ],
+      "scene_context": {
+        "setting": "unknown",
+        "time_of_day": "unknown",
+        "activity_level": "unknown",
+        "social_context": "individual",
+        "mood": "neutral"
+      },
+      "related_topics": [
+        "exercise routines",
+        "fitness",
+        "health",
+        "nutrition",
+        "wellness"
+      ],
+      "metadata": {
+        "model_used": "BLIP-base",
+        "processing_device": "cpu",
+        "analysis_version": "1.0"
+      }
+    },
+    {
+      "filename": "GuyRunningOnBeach.jpg",
+      "timestamp": "2025-09-25T15:54:39.424211",
+      "image_properties": {
+        "width": 3718,
+        "height": 2498,
+        "aspect_ratio": 1.49,
+        "format": "JPEG"
+      },
+      "ai_description": "a man running on the beach This appears to be an outdoor scene. The activity level in the image is high. This focuses on an individual person. Key elements include: running, beach.",
+      "captions": [
+        {
+          "type": "standard",
+          "text": "a man running on the beach",
+          "confidence": 0.85
+        },
+        {
+          "type": "detailed",
+          "text": "a man running on the beach",
+          "confidence": 0.8
+        }
+      ],
+      "tags": [
+        "beach",
+        "man",
+        "running"
+      ],
+      "scene_context": {
+        "setting": "outdoor",
+        "time_of_day": "unknown",
+        "activity_level": "high",
+        "social_context": "individual",
+        "mood": "neutral"
+      },
+      "related_topics": [
+        "outdoor activities",
+        "travel",
+        "nature",
+        "recreation",
+        "exercise routines"
+      ],
+      "metadata": {
+        "model_used": "BLIP-base",
+        "processing_device": "cpu",
+        "analysis_version": "1.0"
+      }
+    }
+  ]
+}
