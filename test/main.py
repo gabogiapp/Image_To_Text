@@ -1,5 +1,12 @@
 import json
 import os
+import sys
+from pathlib import Path
+
+# Add project root to Python path
+project_root = Path(__file__).parent.parent
+sys.path.insert(0, str(project_root))
+
 from src.captioner import image_to_ai_description
 from src.utils import list_images
 

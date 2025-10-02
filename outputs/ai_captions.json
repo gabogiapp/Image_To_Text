@@ -2,7 +2,7 @@
   "images": [
     {
       "filename": "8c0d87f175d187a8221775f6b4955183.jpg",
-      "timestamp": "2025-09-25T15:54:32.590317",
+      "timestamp": "2025-10-01T22:23:42.030060",
       "image_properties": {
         "width": 720,
         "height": 1162,
@@ -18,7 +18,7 @@
         },
         {
           "type": "detailed",
-          "text": "a list of workouts for the day",
+          "text": "a workout schedule for the day",
           "confidence": 0.8
         }
       ],
@@ -41,14 +41,14 @@
     },
     {
       "filename": "GuyBenching.jpg",
-      "timestamp": "2025-09-25T15:54:35.772941",
+      "timestamp": "2025-10-01T22:23:46.708203",
       "image_properties": {
         "width": 612,
         "height": 408,
         "aspect_ratio": 1.5,
         "format": "JPEG"
       },
-      "ai_description": "a man doing a bench press in a gym This focuses on an individual person. Key elements include: gym, bench press.",
+      "ai_description": "a man doing a bench press in a gym This focuses on an individual person. Key elements include: bench press, gym.",
       "captions": [
         {
           "type": "standard",
@@ -75,10 +75,10 @@
       },
       "related_topics": [
         "exercise routines",
-        "fitness",
         "health",
-        "nutrition",
-        "wellness"
+        "wellness",
+        "fitness",
+        "nutrition"
       ],
       "metadata": {
         "model_used": "BLIP-base",
@@ -88,7 +88,7 @@
     },
     {
       "filename": "GuyRunningOnBeach.jpg",
-      "timestamp": "2025-09-25T15:54:39.424211",
+      "timestamp": "2025-10-01T22:23:51.664641",
       "image_properties": {
         "width": 3718,
         "height": 2498,
@@ -104,7 +104,7 @@
         },
         {
           "type": "detailed",
-          "text": "a man running on the beach",
+          "text": "a man running on the beach during the day",
           "confidence": 0.8
         }
       ],
@@ -121,11 +121,11 @@
         "mood": "neutral"
       },
       "related_topics": [
-        "outdoor activities",
-        "travel",
-        "nature",
-        "recreation",
-        "exercise routines"
+        "energy",
+        "outdoor lifestyle",
+        "exercise routines",
+        "fresh air benefits",
+        "recreation"
       ],
       "metadata": {
         "model_used": "BLIP-base",
