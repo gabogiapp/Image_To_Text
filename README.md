@@ -1,7 +1,1 @@
-Put pictures you want to analyze in data folder
-
-Run main.py
-
-Check ai_captions.json in outputs folder for results
-
-
+[![Watch the video](https://img.youtube.com/vi/va1hvMhrIgg/maxresdefault.jpg)](https://www.youtube.com/watch?v=va1hvMhrIgg)
